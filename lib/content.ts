@@ -8,8 +8,8 @@ import type { IconName } from "@/components/Icons";
 
 export const HERO = {
   eyebrow: "Marketing for restaurants, cafes and shisha lounges",
-  headline: "Get more people ",
-  headlineEmphasis: "through your door.",
+  headline: "You set the vision. ",
+  headlineEmphasis: "We do the rest.",
 };
 
 export const SITE = {

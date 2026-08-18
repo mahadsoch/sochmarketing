@@ -22,8 +22,8 @@ export function Hero() {
 
           <p className="lead text-[clamp(0.95rem,0.88rem+0.28vw,1.1rem)] mt-5 animate-fade-up [animation-delay:160ms]">
             We manage your digital presence, so people looking for a place
-            to eat tonight find you first. You approve every post before
-            it goes live.
+            to eat tonight find you first. You set the vision. We handle
+            the rest.
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3 animate-fade-up [animation-delay:240ms]">

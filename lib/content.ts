@@ -8,8 +8,8 @@ import type { IconName } from "@/components/Icons";
 
 export const HERO = {
   eyebrow: "For restaurant, cafe and shisha lounge owners",
-  headline: "More people through your door ",
-  headlineEmphasis: "on the quiet nights.",
+  headline: "Full tables, ",
+  headlineEmphasis: "even on a Tuesday.",
 };
 
 export const SITE = {

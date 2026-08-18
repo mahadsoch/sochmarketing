@@ -21,9 +21,9 @@ export function Hero() {
           </h1>
 
           <p className="lead text-[clamp(0.95rem,0.88rem+0.28vw,1.1rem)] mt-5 animate-fade-up [animation-delay:160ms]">
-            We run your Instagram, Google listing, reviews and delivery
-            apps, so people looking for dinner tonight actually find you.
-            You approve every post. We do the rest.
+            We manage your digital presence, so people looking for a place
+            to eat tonight find you first. You approve every post. We do
+            the rest.
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3 animate-fade-up [animation-delay:240ms]">

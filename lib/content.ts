@@ -7,9 +7,9 @@
 import type { IconName } from "@/components/Icons";
 
 export const HERO = {
-  eyebrow: "For restaurant, cafe and shisha lounge owners",
-  headline: "Full tables, ",
-  headlineEmphasis: "even on a Tuesday.",
+  eyebrow: "Marketing for restaurants, cafes and shisha lounges",
+  headline: "Get more people ",
+  headlineEmphasis: "through your door.",
 };
 
 export const SITE = {
